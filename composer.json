@@ -1,0 +1,38 @@
+{
+  "name": "sadi01/yii2-daterangepicker",
+  "description": "Persian date range picker based on Bootstrap 4 for Yii2 framework",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "extension",
+    "jalali",
+    "date range picker",
+    "date time range picker",
+    "persian calendar",
+    "date picker",
+    "time picker",
+    "bootstrap 4"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Sadegh Shafii",
+      "email": "sadshafiei.01@gmail.com"
+    },
+    {
+      "name": "Amin Shafii",
+      "email": "amin.shafiee.d@gmail.com"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/sadi01/yii2-daterangepicker"
+  },
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "sadi01\\datarangepicker\\": "src/"
+    }
+  }
+}
