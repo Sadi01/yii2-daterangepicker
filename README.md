@@ -35,9 +35,6 @@ Once the extension is installed, simply use it in your code by  :
 ```php
 <?= $form->field($model, 'date_range')->widget(dateRangePicker::classname(),[
 	'options'  => [
-		'format' => 'jYYYY/jMM/jDD',
-		'viewformat' => 'jYYYY/jMM/jDD',
-		// 'minDate' => '1394/10/17',
 		'drops' => 'down',
 		'placement' => 'right',
 		'opens' => 'right',
