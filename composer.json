@@ -32,7 +32,7 @@
   },
   "autoload": {
     "psr-4": {
-      "sadi01\\datarangepicker\\": "src/"
+      "sadi01\\dateRangePicker\\": "src/"
     }
   }
 }
