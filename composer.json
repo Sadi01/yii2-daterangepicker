@@ -25,6 +25,7 @@
     }
   ],
   "support": {
+    "issues": "https://github.com/sadi01/yii2-daterangepicker/issues",
     "source": "https://github.com/sadi01/yii2-daterangepicker"
   },
   "require": {
