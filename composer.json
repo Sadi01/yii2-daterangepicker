@@ -28,7 +28,8 @@
     "source": "https://github.com/sadi01/yii2-daterangepicker"
   },
   "require": {
-    "yiisoft/yii2": "~2.0.0"
+    "yiisoft/yii2": "~2.0.0",
+    "FortAwesome/Font-Awesome": "*"
   },
   "autoload": {
     "psr-4": {

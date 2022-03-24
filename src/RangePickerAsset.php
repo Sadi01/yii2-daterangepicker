@@ -36,6 +36,7 @@ class RangePickerAsset extends AssetBundle
 	];
 
 	public $depends = [
+	    'sadi01\dateRangePicker\FontAwesomeAsset',
 		'yii\bootstrap4\BootstrapPluginAsset',
 	];
 }
