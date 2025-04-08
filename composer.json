@@ -1,6 +1,6 @@
 {
   "name": "sadi01/yii2-daterangepicker",
-  "description": "Persian date range picker based on Bootstrap 4 for Yii2 framework",
+  "description": "Persian date range picker based on Bootstrap 5 for Yii2 framework",
   "type": "yii2-extension",
   "keywords": [
     "yii2",
@@ -11,7 +11,7 @@
     "persian calendar",
     "date picker",
     "time picker",
-    "bootstrap 4"
+    "bootstrap 5"
   ],
   "license": "BSD-3-Clause",
   "authors": [
