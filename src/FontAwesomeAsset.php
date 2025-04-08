@@ -19,6 +19,6 @@ class FontAwesomeAsset extends AssetBundle
     ];
 
     public $depends = [
-        'yii\bootstrap4\BootstrapPluginAsset',
+        'yii\bootstrap5\BootstrapPluginAsset',
     ];
 }
